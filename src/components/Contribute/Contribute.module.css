@@ -1,0 +1,9 @@
+.flexiblebutton {
+  background: linear-gradient(
+    to right,
+    #878787 1%,
+    #0e1523 7%,
+    #0e1523 93%,
+    #878787 100%
+  );
+}
